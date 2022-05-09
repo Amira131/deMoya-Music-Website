@@ -1,0 +1,55 @@
+body {
+    background: lightblue;
+
+    margin: auto;
+
+    ;
+  }
+  
+
+  h1 { 
+
+    font-size: 100px;
+    font-family: fantasy;
+    text-align: center;
+    font-style: oblique;
+    color: blue;
+
+    
+}
+
+img {
+    width: 550px;
+    height: 550px;
+     
+}
+
+div p {
+    text-align: justify, center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    line-height: normal;
+    padding-right: 10%;
+    padding-left: 10%
+  
+
+    
+    
+}
+
+
+div img {
+    padding-left: 30%;
+    padding-right: 25%;
+}
+
+h2 {
+    text-align: center;
+    font-family: monospace;
+    font-weight: 400;
+    
+    font-style: italic
+    
+  
+}
+
