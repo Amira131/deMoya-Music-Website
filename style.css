@@ -48,9 +48,31 @@ h2 {
     text-align: center;
     font-family: monospace;
     font-weight: 400;
-    
     font-style: italic
     
   
 }
 
+h3 {
+padding-left: 10px;
+color:blue;
+letter-spacing: .3cm;
+font-family: fantasy;
+font-style: oblique;
+
+}
+
+h4 {
+    text-align: center;
+    font-family: monospace;
+    font-weight: 400;
+    font-size: xx-large;
+    font-style: bold
+
+}
+
+h5{
+padding-left: 60px;
+padding-top: 20px;
+font-size: medium;
+}
