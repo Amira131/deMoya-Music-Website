@@ -2,9 +2,15 @@ const h2 = document.createElement("h2");
 h2.textContent = "The Girl In The Water";
 document.querySelector("body").appendChild(h2);
 
-const img = document.getElementById('img');
-function clickAlert() {
-    alert(' Just a girl in the water.')
+var audio = new Audio("How Can You Be Happy.wav");
+
+document.onclick = function() {
+  audio.play();
 }
 
-img.addEventListener('click, clickAlert')
+var sound = new Audio("How Can You Be Happy.wav");
+
+button.addEventListener('click',()=>{
+	sound.currentTime = 0;
+	sound.play();
+});
